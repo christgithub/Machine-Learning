@@ -1,2 +1,2 @@
-# e-Portfolio
-Machine Learning e-Portfolio Learning Activities
+# Machine Learning e-Portfolio
+
